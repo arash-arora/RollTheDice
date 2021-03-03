@@ -1,2 +1,2 @@
 # RollTheDice
-Take a chance and roll the dice your way to win. 
+Take a chance to roll a dice in your way to win. 
